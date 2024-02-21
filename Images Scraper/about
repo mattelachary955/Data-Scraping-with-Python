@@ -1,1 +1,2 @@
-This project is to get data of images like "Name of the Image", "Number of likes", "Tags" and also images can be downloaded using Webdriver with Selenium
+This project is to get data of images like "Name of the Image", "Number of likes", "Tags" and also images can be downloaded using Webdriver with Selenium.
+Images can be managed and saved in different folders based on tags it belongs to.
